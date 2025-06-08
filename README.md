@@ -18,7 +18,7 @@
 - More focused on **structure and performance** than what’s visible on the surface  
 - Continuously deepening my understanding of **Operating Systems, Computer Architecture**
 
-### 📈 Current Interests
+### Current Interests
 - Mastering Unreal Engine’s advanced systems like **Niagara VFX**, **Animation Blueprint**, and **Gameplay Ability System**
 - Building scalable gameplay systems with **clean architecture and modular design**
 - 🛠Improving debugging and profiling skills for better **runtime performance and stability**
