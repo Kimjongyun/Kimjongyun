@@ -21,5 +21,5 @@
 ### Current Interests
 - Mastering Unreal Engine’s advanced systems like **Niagara VFX**, **Animation Blueprint**, and **Gameplay Ability System**
 - Building scalable gameplay systems with **clean architecture and modular design**
-- 🛠Improving debugging and profiling skills for better **runtime performance and stability**
+- Improving debugging and profiling skills for better **runtime performance and stability**
 - Learning how to make complex features more maintainable and team-friendly
