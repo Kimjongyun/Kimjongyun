@@ -10,7 +10,7 @@
 - **Unreal Engine 5 (C++)**
   - Developing an FPS project inspired by DOOM
 - **Unity (C#)**  
-  - Creating a VR rhythm game using XR Interaction Toolkit  
+  - Create a VR rhythm game using XR Interaction Toolkit  
   - Implemented a data-driven note spawning system
  
 ### Development Philosophy
